@@ -11,8 +11,6 @@
 🐍 Estudando **Python** com ênfase em lógica, funções e estrutura de código  
 🚀 Interesse em **APIs, automação e sistemas bem organizados**
 
-Sou movido por aprendizado constante e gosto de entender **o porquê das coisas**, não apenas fazê-las funcionar.
-
 ---
 
 ## 🚧 O que estou fazendo agora
@@ -33,7 +31,9 @@ Sou movido por aprendizado constante e gosto de entender **o porquê das coisas*
 ### Frontend
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+- Next.JS
+- React
 
 ### Acadêmico / Base
 - C  
