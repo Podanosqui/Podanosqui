@@ -41,12 +41,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade no GitHub
 
 <div align="center">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Podanosqui&show_icons=true&hide_border=true&theme=transparent" />
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podanosqui&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Podanosqui&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
