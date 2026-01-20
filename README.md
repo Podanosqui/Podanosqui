@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mim
 
-🎓 Estudante de **Engenharia de Software**  
+🎓 Formado em **Engenharia de Software**  
 🧠 Foco atual em **Desenvolvimento Backend**  
 🐍 Estudando **Python** com ênfase em lógica, funções e estrutura de código  
 🚀 Interesse em **APIs, automação e sistemas bem organizados**
