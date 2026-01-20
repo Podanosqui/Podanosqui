@@ -38,6 +38,7 @@
 ### Acadêmico / Base
 - C  
 - C++
+- Java
 
 ---
 
